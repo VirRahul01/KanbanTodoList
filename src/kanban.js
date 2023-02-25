@@ -39,7 +39,7 @@ const classes = {
         width: "18vw",
         height: "80vh",
         margin: "0 auto",
-        backgroundColor: "red"
+        backgroundColor: "pink"
     },
     columnHead: {
         textAlign: "center",
